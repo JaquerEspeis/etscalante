@@ -52,11 +52,11 @@ bloques para validar las transacciones de la red de FairCoin.
 
 ### IPFS
 
-IPFS es un protocolo para el intercambio de archivos en una red de pares descentralizada.
+[IPFS](https://ipfs.io) es un protocolo para el intercambio de archivos en una red de pares descentralizada.
 
 Equipo: [dryajov](https://github.com/dryajov), [rngkll](https://github.com/rngkll) y [@elopio](https://github.com/elopio)
 
-* [apt-transport-ipfs](https://github.com/JaquerEspeis/apt-transport-ipfs): decentralizar los servidores espejo de apt para compartir entre todos los usuarios de cada 
+* [apt-transport-ipfs](https://github.com/JaquerEspeis/apt-transport-ipfs): descentralizar los servidores espejo de apt para compartir entre todos los usuarios de cada 
   paquete.
 * [IPFSChef](https://github.com/JaquerEspeis/IPFSChef): transmisión de video sobre IPFS.
 
