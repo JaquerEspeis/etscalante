@@ -2,6 +2,13 @@
 
 Taller cypherpunk de decentralización e intercambios justos.
 
+## Tabla de contenidos
+
+* [Eventos](#eventos)
+* [Proyectos](#proyectos)
+  * [FairCoin](#faircoin)
+  * [IPFS](#ipfs)
+  
 ## Eventos
 
 Nos reunimos en etscalante una vez al mes para experimentar con las tecnologías libres de comunicación cifrada, 
@@ -49,7 +56,7 @@ IPFS es un protocolo para el intercambio de archivos en una red de pares descent
 
 Equipo: [dryajov](https://github.com/dryajov), [rngkll](https://github.com/rngkll) y [@elopio](https://github.com/elopio)
 
-* [apt-transport-ipfs]: decentralizar los servidores espejo de apt para compartir entre todos los usuarios de cada 
+* [apt-transport-ipfs](https://github.com/JaquerEspeis/apt-transport-ipfs): decentralizar los servidores espejo de apt para compartir entre todos los usuarios de cada 
   paquete.
 * [IPFSChef](https://github.com/JaquerEspeis/IPFSChef): transmisión de video sobre IPFS.
 
