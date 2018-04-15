@@ -8,7 +8,7 @@ Taller cypherpunk de decentralización e intercambios justos.
 * [Proyectos](#proyectos)
   * [FairCoin](#faircoin)
   * [IPFS](#ipfs)
-  * [Tor](#Tor)
+  * [Tor](#tor)
 ## Eventos
 
 Nos reunimos en etscalante una vez al mes para experimentar con las tecnologías libres de comunicación cifrada, 
