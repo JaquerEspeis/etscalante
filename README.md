@@ -70,7 +70,11 @@ Este proyecto busca dar contexto a la privacidad y anonimato en línea en difere
 
 También se busca ayudar a fortalecer la comunidad técnica en torno a la privacidad y anonimato en América Latina, generando espacios y discusión entre diferentes actores. Este proyecto se hace en colaboración con [Derechos Digitales](https://www.derechosdigitales.org) y [Tor project](https://donate.torproject.org/pdr).
 
-Equipo: [@fmonge](https://github.com/fmonge).
+
+The Tor Relay Guide en español disponible en [La guía de Tor relay](./Tor/torrelayguide_es.txt). Traducida por [JáquerEspeis](https://github.com/jaquerespeis), en especial el equipo:
+
+
+Equipo: [@fmonge](https://github.com/fmonge), [dtec83](https://github.com/dtec83), [EmmanuelPerezP](https://github.com/EmmanuelPerezP), [untxi](https://github.com/untxi).
 
 ***
 
