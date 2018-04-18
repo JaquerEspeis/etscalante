@@ -8,7 +8,7 @@ Taller cypherpunk de decentralización e intercambios justos.
 * [Proyectos](#proyectos)
   * [FairCoin](#faircoin)
   * [IPFS](#ipfs)
-  
+  * [Tor](#tor)
 ## Eventos
 
 Nos reunimos en etscalante una vez al mes para experimentar con las tecnologías libres de comunicación cifrada, 
@@ -59,6 +59,22 @@ Equipo: [dryajov](https://github.com/dryajov), [rngkll](https://github.com/rngkl
 * [apt-transport-ipfs](https://github.com/JaquerEspeis/apt-transport-ipfs): descentralizar los servidores espejo de apt para compartir entre todos los usuarios de cada 
   paquete.
 * [IPFSChef](https://github.com/JaquerEspeis/IPFSChef): transmisión de video sobre IPFS.
+
+
+
+### Tor
+
+> Tor es un software libre y de red abierta que ayuda a defendernos del análisis de tráfico, una forma de vigilancia en la red que amenaza la libertad y privacidad personal, las actividades y relaciones comerciales cofidenciales, y la seguridad del estado.
+
+Este proyecto busca dar contexto a la privacidad y anonimato en línea en diferentes comunidades de América Latina, forjando lazos con comunidades técnicas y el entorno que los rodea (e.g. academia, periodistas, activistas, etc). Generando conciencia sobre estos tópicos en las prácticas diarias de cada una. La expansión de la red Tor es una de las maneras de garantizar los derechos a la privacidad y anonimato en línea desde un punto de vista técnico. Considerando que hoy en día la mayor parte de los nodos Tor se encuentra en el “Norte Global”, la instalación y configuración de nodos y el aumento en la base de usuarixs ayuda a la generación de mayor diversidad y diversificación, fortaleciendo la red y contribuyendo a que sea más segura para las usuarias y usuarios de la región.
+
+También se busca ayudar a fortalecer la comunidad técnica en torno a la privacidad y anonimato en América Latina, generando espacios y discusión entre diferentes actores. Este proyecto se hace en colaboración con [Derechos Digitales](https://www.derechosdigitales.org) y [Tor project](https://donate.torproject.org/pdr).
+
+
+The Tor Relay Guide en español disponible en [La guía de Tor relay](./Tor/torrelayguide_es.txt). Traducida por [JáquerEspeis](https://github.com/jaquerespeis), en especial el equipo:
+
+
+Equipo: [@fmonge](https://github.com/fmonge), [dtec83](https://github.com/dtec83), [EmmanuelPerezP](https://github.com/EmmanuelPerezP), [untxi](https://github.com/untxi).
 
 ***
 
